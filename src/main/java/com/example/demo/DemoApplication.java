@@ -13,6 +13,10 @@ public class DemoApplication {
         System.out.println("=================================");
         System.out.println("This is a demo");
         System.out.println("=================================");
+
+        System.out.println("=================================");
+        System.out.println("This is a demo, 2nd");
+        System.out.println("=================================");
     }
 
 }
